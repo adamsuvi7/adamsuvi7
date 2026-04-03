@@ -9,10 +9,10 @@
 <br/>
 
 <!-- Social Badges -->
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-adamsportofolio.netlify.app-2B3754?style=for-the-badge)](https://adamsportofolio.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-adam--suvi7-D28C5D?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adam-suvi7)
-[![Email](https://img.shields.io/badge/Gmail-adamsuvi7@gmail.com-6D2D43?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adamsuvi7@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-@adam__suvi-2B3754?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/adam_suvi)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-adamsportofolio.netlify.app-0D1117?style=for-the-badge&labelColor=D28C5D)](https://adamsportofolio.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-adam--suvi7-0D1117?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://linkedin.com/in/adam-suvi7)
+[![Email](https://img.shields.io/badge/Gmail-adamsuvi7@gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:adamsuvi7@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-@adam__suvi-0D1117?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F)](https://instagram.com/adam_suvi)
 
 </div>
 
@@ -20,21 +20,28 @@
 
 ## 👤 About Me
 
-<img align="right" width="220" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDh3cHhrM2p3Y2E2dTZ2bXcwZ3d4cXJsaGFxeXd5enhhZWV4dHFkeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" width="300" src="https://raw.githubusercontent.com/adamsuvi7/adamsuvi7/master/header-animation.svg" alt="Data Animation"/>
 
-> *"Every dataset is a story waiting to be told."*
+> *"Every dataset is a story waiting to be told — and I'm here to translate the numbers into narrative."*
 
-🎓 **S.Si. — Bachelor of Mathematics**  
-&nbsp;&nbsp;&nbsp;&nbsp;Universitas Andalas, Padang
+Saya **Adam Suvi, S.Si., C.DA** — seorang **Data Analyst** dan lulusan **Matematika** dari **Universitas Andalas**, Padang. Saya bersertifikasi resmi **BNSP Certified Data Analyst (C.DA)** dari Syntaxnesia Training Centre, serta menyelesaikan sertifikasi professional dari **Google** dan **Meta** di bidang Data Analytics.
 
-📜 **C.DA — Certified Data Analyst**  
-&nbsp;&nbsp;&nbsp;&nbsp;BNSP Certified · Syntaxnesia Training Centre
+### 🎯 What I Do
 
-📊 Data Enthusiast with expertise in **data analysis, BI & visualization**
+- 📊 **Data Analysis & Visualization** — Mengolah raw data menjadi insight yang actionable menggunakan SQL, Python, dan BI tools
+- 🤖 **AI/ML Engineering** — Membangun model prediktif dan neural network (ANN, TensorFlow)
+- 🌐 **Web Development** — Full-stack web applications dengan Next.js, React, dan modern frameworks
+- ⚙️ **Automation** — Bot dan workflow automation untuk meningkatkan produktivitas
 
-🤖 Building AI/ML models (ANN, TensorFlow) & automation tools
+### 📋 Quick Facts
 
-📍 Based in Padang, Indonesia
+| | |
+|---|---|
+| 🎓 **Education** | S.Si. — Bachelor of Mathematics, Universitas Andalas |
+| 📜 **Certification** | C.DA — BNSP Certified Data Analyst |
+| 📍 **Location** | Padang, Indonesia |
+| 💼 **Focus** | Data Analytics · Business Intelligence · AI/ML |
+| 🌐 **Portfolio** | [adamsportofolio.netlify.app](https://adamsportofolio.netlify.app) |
 
 <br clear="right"/>
 
@@ -83,6 +90,15 @@
 
 </div>
 
+<details>
+<summary>📂 <b>View All Project Files →</b></summary>
+
+<br/>
+
+Kunjungi repository **[adam-projects](https://github.com/adamsuvi7/adam-projects)** untuk akses lengkap ke semua file project PDF, presentasi, dan dokumentasi.
+
+</details>
+
 ---
 
 ## 🏆 Certifications
@@ -102,25 +118,34 @@
 
 ---
 
-## 🏢 Organizations & Leadership
+<details>
+<summary>🏢 <b>Organizations & Leadership</b></summary>
 
-```text
-🏛️  BEM FMIPA Universitas Andalas   →  PLT Gubernur & Head of Kastrat
-     Led 80+ members · 15+ initiatives · 40% participation increase
+<br/>
 
-🎓  LKMMTD                           →  Head of Event
-     Directed 80+ committee, 400+ participant leadership training
+### 🏛️ BEM FMIPA Universitas Andalas
+**PLT Gubernur & Head of Kastrat**
+> Led 80+ members · 15+ initiatives · 40% participation increase
 
-📚  HIMATIKA UNAND                   →  PSDM Coordinator
-     Soft skill development & mentoring for 60+ new members
-```
+### 🎓 LKMMTD
+**Head of Event**
+> Directed 80+ committee, 400+ participant leadership training
 
----
+### 📚 HIMATIKA UNAND
+**PSDM Coordinator**
+> Soft skill development & mentoring for 60+ new members
 
-## 🏅 Achievement
+</details>
 
-🥈 **1st Runner-Up (Juara 2) — Duta Genre Kota Bukittinggi**
+<details>
+<summary>🏅 <b>Achievements</b></summary>
+
+<br/>
+
+### 🥈 1st Runner-Up — Duta Genre Kota Bukittinggi
 > Represented youth in education & advocacy · 10+ public talks · 500+ participants
+
+</details>
 
 ---
 
@@ -128,16 +153,15 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=adamsuvi7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamsuvi7&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<!-- GitHub Stats Card -->
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=adamsuvi7&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=D28C5D&icon_color=D28C5D&text_color=C9D1D9&ring_color=D28C5D" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamsuvi7&layout=compact&theme=github_dark&hide_border=true&langs_count=8&bg_color=0D1117&title_color=D28C5D&text_color=C9D1D9" />
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=adamsuvi7&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+<!-- Streak Stats -->
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=adamsuvi7&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117&stroke=D28C5D&ring=D28C5D&fire=EFE1D1&currStreakLabel=D28C5D&sideLabels=D28C5D&currStreakNum=EFE1D1&sideNums=EFE1D1" />
 
 <!-- Activity Graph -->
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=adamsuvi7&theme=tokyo-night&hide_border=true&area=true&area_color=D28C5D" />
-
-<!-- GitHub Trophies -->
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=adamsuvi7&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=adamsuvi7&theme=github-compact&hide_border=true&area=true&bg_color=0D1117&color=D28C5D&line=D28C5D&point=EFE1D1&area_color=6D2D43" />
 
 </div>
 
@@ -158,12 +182,41 @@
 
 ---
 
+<!-- Interactive Section -->
 <div align="center">
 
-### 👀 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=adamsuvi7&color=6D2D43&style=for-the-badge&label=PROFILE+VIEWS)
+### 💬 Let's Connect & Interact!
 
-⭐ **If you find my work useful, please star the repos!**
+<!-- Ask Me Anything -->
+[![Ask Me Anything](https://img.shields.io/badge/💬_Ask_Me_Anything-Let's_Talk!-D28C5D?style=for-the-badge&labelColor=0D1117)](https://github.com/adamsuvi7/adamsuvi7/issues/new?title=Hi+Adam!&body=Write+your+question+or+message+here...)
+
+<!-- Random Dev Quote -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&quote=Data+is+the+new+oil,+but+like+oil,+it+must+be+refined+to+be+useful.&author=Clive+Humby" alt="Dev Quote"/>
+
+<br/><br/>
+
+<!-- Dynamic Stats Badges -->
+![GitHub followers](https://img.shields.io/github/followers/adamsuvi7?label=Followers&style=for-the-badge&color=D28C5D&labelColor=0D1117&logo=github)
+![GitHub User's stars](https://img.shields.io/github/stars/adamsuvi7?label=Total%20Stars&style=for-the-badge&color=EFE1D1&labelColor=0D1117&logo=github)
+![Profile Views](https://komarev.com/ghpvc/?username=adamsuvi7&color=D28C5D&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌟 Support My Work
+
+⭐ **If you find my projects useful, please consider starring the repos!**
+
+<br/>
+
+<a href="https://github.com/adamsuvi7?tab=repositories">
+  <img src="https://img.shields.io/badge/📁_Explore_My_Repos-Click_Here-D28C5D?style=for-the-badge&labelColor=0D1117" alt="Explore Repos"/>
+</a>
+
+<br/><br/>
 
 📬 **adamsuvi7@gmail.com** | [LinkedIn](https://linkedin.com/in/adam-suvi7) | [Portfolio](https://adamsportofolio.netlify.app) | [Certificates](https://github.com/adamsuvi7/certificates)
 

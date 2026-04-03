@@ -1,46 +1,54 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 150" width="100%" height="150" preserveAspectRatio="none">
   <defs>
     <style>
-      .bg { fill: #2B3754; } 
+      .bg { fill: #0D1117; }
 
       @keyframes waveSlide {
         0% { transform: translateX(0); }
         100% { transform: translateX(-1000px); }
       }
-      
+
       @keyframes floatUp {
         0%, 100% { transform: translateY(0); }
-        50% { transform: translateY(-15px); }
+        50% { transform: translateY(-12px); }
       }
 
-      .wave-fast { animation: waveSlide 12s linear infinite; }
-      .wave-slow { animation: waveSlide 20s linear infinite; }
-      
+      @keyframes shimmer {
+        0%, 100% { opacity: 0.3; }
+        50% { opacity: 0.8; }
+      }
+
+      .wave-1 { animation: waveSlide 25s linear infinite; }
+      .wave-2 { animation: waveSlide 18s linear infinite; }
+      .wave-3 { animation: waveSlide 12s linear infinite; animation-direction: reverse; }
+
       .floating { animation: floatUp 6s ease-in-out infinite; transform-origin: center; }
-      .floating-delay { animation: floatUp 7s ease-in-out infinite; transform-origin: center; animation-delay: -3s;}
-      
+      .floating-delay { animation: floatUp 7s ease-in-out infinite; transform-origin: center; animation-delay: -3s; }
+      .shimmer { animation: shimmer 4s ease-in-out infinite; }
     </style>
   </defs>
 
-  <rect width="100%" height="100%" class="bg" rx="15"/>
+  <rect width="100%" height="100%" class="bg" rx="12"/>
 
-  <!-- Wave 1 (Plum) -->
-  <g class="wave-slow" fill="#6D2D43" opacity="0.7">
-    <path d="M 0 60 Q 250 10 500 60 T 1000 60 Q 1250 10 1500 60 T 2000 60 L 2000 160 L 0 160 Z" />
+  <!-- Wave 1 (Deep Plum) -->
+  <g class="wave-1" fill="#6D2D43" opacity="0.5">
+    <path d="M 0 50 Q 250 10 500 50 T 1000 50 Q 1250 10 1500 50 T 2000 50 L 2000 160 L 0 160 Z"/>
   </g>
-  
-  <!-- Wave 2 (Curry) -->
-  <g class="wave-fast" fill="#D28C5D" opacity="0.6">
-    <path d="M 0 90 Q 250 130 500 90 T 1000 90 Q 1250 130 1500 90 T 2000 90 L 2000 160 L 0 160 Z" />
+
+  <!-- Wave 2 (Curry/Gold) -->
+  <g class="wave-2" fill="#D28C5D" opacity="0.4">
+    <path d="M 0 80 Q 250 120 500 80 T 1000 80 Q 1250 120 1500 80 T 2000 80 L 2000 160 L 0 160 Z"/>
   </g>
 
   <!-- Wave 3 (Cream) -->
-  <g class="wave-slow" fill="#EFE1D1" opacity="0.2" style="animation-direction: reverse; animation-duration: 25s;">
-    <path d="M 0 110 Q 250 80 500 110 T 1000 110 Q 1250 80 1500 110 T 2000 110 L 2000 160 L 0 160 Z" />
+  <g class="wave-3" fill="#EFE1D1" opacity="0.12">
+    <path d="M 0 100 Q 250 70 500 100 T 1000 100 Q 1250 70 1500 100 T 2000 100 L 2000 160 L 0 160 Z"/>
   </g>
 
   <!-- Decorators -->
-  <circle cx="80" cy="50" r="10" fill="#EFE1D1" class="floating" opacity="0.6" />
-  <rect x="900" y="40" width="15" height="15" rx="3" fill="#D28C5D" class="floating-delay" transform="rotate(30 907 47)" />
+  <circle cx="80" cy="40" r="8" fill="#EFE1D1" class="floating" opacity="0.4"/>
+  <circle cx="500" cy="30" r="4" fill="#D28C5D" class="shimmer"/>
+  <rect x="900" y="35" width="12" height="12" rx="3" fill="#D28C5D" class="floating-delay" transform="rotate(30 906 41)" opacity="0.5"/>
+  <circle cx="300" cy="25" r="3" fill="#6D2D43" class="floating-delay" opacity="0.5"/>
 
 </svg>
