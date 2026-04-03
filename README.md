@@ -56,45 +56,57 @@
 
 ## 🚀 Featured Projects
 
-### 📊 [Superstore Customer Analyst](https://adamsportofolio.netlify.app/#projects)
-> Comprehensive customer analysis on Superstore dataset — segmentation, trend identification, and business insights  
-> **Tools:** SQL · Python · Power BI · Excel · R
+### 📊 Superstore Customer Analyst ⭐
+> Comprehensive customer analysis — segmentation, trend identification, and business insights  
+> **Tools:** SQL · Python · Power BI · Excel · R  
+> [![Portfolio](https://img.shields.io/badge/🔗_View_on_Portfolio-4F8EF7?style=flat-square)](https://adamsportofolio.netlify.app/#projects) [![Projects Repo](https://img.shields.io/badge/📁_Projects_Repo-181717?style=flat-square&logo=github)](https://github.com/adamsuvi7/adam-projects)
 
 ---
 
-### 📈 [Sales Transaction EDA](https://adamsportofolio.netlify.app/#projects)
-> Exploratory Data Analysis on 10,000+ sales records for trend identification and customer segmentation  
-> **Tools:** Python · Pandas · SQL
+### 🏙️ DKI Jakarta Sales Report 2023–2025
+> Regional sales breakdown, YoY growth analysis, and KPI visualization  
+> **Tools:** Power BI · Power Query · Pivot Table  
+> [![PDF](https://img.shields.io/badge/📄_View_PDF-DC143C?style=flat-square)](https://github.com/adamsuvi7/adam-projects/blob/master/DKI%20Jakarta%20Sales%20Report.pdf)
 
 ---
 
-### 🔮 [Ethereum Price Prediction (ANN)](https://adamsportofolio.netlify.app/#projects)
-> Applied Artificial Neural Networks (ANN) for Ethereum price trend prediction using historical data  
-> **Tools:** Python · TensorFlow · ANN
+### 🛒 Surya Mart Project
+> Retail transaction data analysis — customer behavior & inventory performance  
+> **Tools:** Python · Pandas · Excel · SQL  
+> [![PDF](https://img.shields.io/badge/📄_View_PDF-DC143C?style=flat-square)](https://github.com/adamsuvi7/adam-projects/blob/master/Surya%20Mart%20Project.pdf)
+
+---
+
+### 🔮 Ethereum Price Prediction (ANN)
+> Applied Artificial Neural Networks for Ethereum price trend prediction using historical data  
+> **Tools:** Python · TensorFlow · ANN  
+> [![Portfolio](https://img.shields.io/badge/🔗_View_on_Portfolio-4F8EF7?style=flat-square)](https://adamsportofolio.netlify.app/#projects)
 
 ---
 
 ### 🌐 [Personal Portfolio Website](https://github.com/adamsuvi7/adamsportofolio)
-> Modern portfolio website with 3D background, smooth animations & bilingual (EN/ID) support  
+> Modern portfolio with 3D background, smooth animations & bilingual (EN/ID) support  
 > **Tools:** Next.js · Three.js · Framer Motion · Tailwind CSS  
 > [![Live](https://img.shields.io/badge/🔗_Live-adamsportofolio.netlify.app-4F8EF7?style=flat-square)](https://adamsportofolio.netlify.app)
 
 ---
 
-### 🤖 [Job Application Tracker WhatsApp Bot](https://github.com/adamsuvi7/job-tracker-wa-bot)
-> AI-powered WhatsApp bot that auto-logs job applications to Google Sheets using natural language  
+### 🤖 [Job Tracker WhatsApp Bot](https://github.com/adamsuvi7/job-tracker-wa-bot)
+> AI-powered bot that auto-logs job applications to Google Sheets via natural language  
 > **Tools:** Node.js · Google Gemini AI · Google Sheets API
 
 ---
 
 ## 🏆 Certifications
 
-| Certificate | Issuer |
-|-------------|--------|
-| 🥇 **BNSP Certified Data Analyst (C.DA)** | Syntaxnesia Training Centre |
-| 📗 **Google Data Analytics Professional Certificate** | Coursera / Google |
-| 📘 **Meta Data Analyst Professional Certificate** | Coursera / Meta |
-| 💻 **Bootcamp Data Analyst** | Harisenin.com |
+| Certificate | Issuer | PDF |
+|-------------|--------|-----|
+| 🥇 **BNSP Certified Data Analyst (C.DA)** | Syntaxnesia Training Centre | [![PDF](https://img.shields.io/badge/📄-View-DC143C?style=flat-square)](https://github.com/adamsuvi7/certificates/blob/master/SERTIFIKASI%20BNSP%20-%20Adam%20Suvi.pdf) |
+| 📗 **Google Data Analytics Professional Certificate** | Coursera / Google | [![PDF](https://img.shields.io/badge/📄-View-DC143C?style=flat-square)](https://github.com/adamsuvi7/certificates/blob/master/GOOGLE%20DATA%20ANALYTICS%20-%20Adam%20Suvi.pdf) |
+| 📘 **Meta Data Analyst Professional Certificate** | Coursera / Meta | [![PDF](https://img.shields.io/badge/📄-View-DC143C?style=flat-square)](https://github.com/adamsuvi7/certificates/blob/master/META%20DATA%20ANALYST%20-%20Adam%20Suvi.pdf) |
+| 💻 **Bootcamp Data Analyst Batch 2** | Harisenin.com | [![PDF](https://img.shields.io/badge/📄-View-DC143C?style=flat-square)](https://github.com/adamsuvi7/certificates/blob/master/Adam%20Suvi%20-%20Certificate%20Completion%20Harisenin%20Bootcamp%20Data%20Analyst%20Batch%202.pdf) |
+
+📁 **[View All Certificates →](https://github.com/adamsuvi7/certificates)**
 
 ---
 
