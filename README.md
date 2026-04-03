@@ -59,7 +59,7 @@
 ### 📊 Superstore Customer Analyst ⭐
 > Comprehensive customer analysis — segmentation, trend identification, and business insights  
 > **Tools:** SQL · Python · Power BI · Excel · R  
-> [![Portfolio](https://img.shields.io/badge/🔗_View_on_Portfolio-4F8EF7?style=flat-square)](https://adamsportofolio.netlify.app/#projects) [![Projects Repo](https://img.shields.io/badge/📁_Projects_Repo-181717?style=flat-square&logo=github)](https://github.com/adamsuvi7/adam-projects)
+> [![Portfolio](https://img.shields.io/badge/🔗_View_on_Portfolio-4F8EF7?style=flat-square)](https://adamsportofolio.netlify.app/#projects) [![PDF](https://img.shields.io/badge/📄_View_PDF-DC143C?style=flat-square)](https://drive.google.com/file/d/1Cm_-bsMYUczeW80qkhNNgX2xxKJhqsP9/view?usp=sharing)
 
 ---
 
