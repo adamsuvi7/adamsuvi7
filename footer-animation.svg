@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 150" width="100%" height="150" preserveAspectRatio="none">
+  <defs>
+    <style>
+      .bg { fill: #2B3754; } 
+
+      @keyframes waveSlide {
+        0% { transform: translateX(0); }
+        100% { transform: translateX(-1000px); }
+      }
+      
+      @keyframes floatUp {
+        0%, 100% { transform: translateY(0); }
+        50% { transform: translateY(-15px); }
+      }
+
+      .wave-fast { animation: waveSlide 12s linear infinite; }
+      .wave-slow { animation: waveSlide 20s linear infinite; }
+      
+      .floating { animation: floatUp 6s ease-in-out infinite; transform-origin: center; }
+      .floating-delay { animation: floatUp 7s ease-in-out infinite; transform-origin: center; animation-delay: -3s;}
+      
+    </style>
+  </defs>
+
+  <rect width="100%" height="100%" class="bg" rx="15"/>
+
+  <!-- Wave 1 (Plum) -->
+  <g class="wave-slow" fill="#6D2D43" opacity="0.7">
+    <path d="M 0 60 Q 250 10 500 60 T 1000 60 Q 1250 10 1500 60 T 2000 60 L 2000 160 L 0 160 Z" />
+  </g>
+  
+  <!-- Wave 2 (Curry) -->
+  <g class="wave-fast" fill="#D28C5D" opacity="0.6">
+    <path d="M 0 90 Q 250 130 500 90 T 1000 90 Q 1250 130 1500 90 T 2000 90 L 2000 160 L 0 160 Z" />
+  </g>
+
+  <!-- Wave 3 (Cream) -->
+  <g class="wave-slow" fill="#EFE1D1" opacity="0.2" style="animation-direction: reverse; animation-duration: 25s;">
+    <path d="M 0 110 Q 250 80 500 110 T 1000 110 Q 1250 80 1500 110 T 2000 110 L 2000 160 L 0 160 Z" />
+  </g>
+
+  <!-- Decorators -->
+  <circle cx="80" cy="50" r="10" fill="#EFE1D1" class="floating" opacity="0.6" />
+  <rect x="900" y="40" width="15" height="15" rx="3" fill="#D28C5D" class="floating-delay" transform="rotate(30 907 47)" />
+
+</svg>

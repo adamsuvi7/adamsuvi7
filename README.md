@@ -1,18 +1,18 @@
 <!-- Animated Wave Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,2,24&height=220&section=header&text=Adam%20Suvi%2C%20S.Si.%2C%20C.DA&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Data%20Enthusiast%20%26%20Data%20Analyst&descAlignY=58&descAlign=50&descSize=20&descColor=cce0ff" />
+<img width="100%" src="./header-animation.svg" alt="Header Animation" />
 
 <div align="center">
 
 <!-- Typing animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=1200&color=4F8EF7&center=true&vCenter=true&width=700&lines=Adam+Suvi%2C+S.Si.%2C+C.DA;Data+Enthusiast+%26+Data+Analyst;SQL+%7C+Python+%7C+Power+BI+%7C+Tableau;BNSP+Certified+Data+Analyst+(C.DA);Every+dataset+is+a+story+waiting+to+be+told." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=1200&color=D28C5D&center=true&vCenter=true&width=700&lines=Adam+Suvi%2C+S.Si.%2C+C.DA;Data+Enthusiast+%26+Data+Analyst;SQL+%7C+Python+%7C+Power+BI+%7C+Tableau;BNSP+Certified+Data+Analyst+(C.DA);Every+dataset+is+a+story+waiting+to+be+told." alt="Typing SVG" />
 
 <br/>
 
 <!-- Social Badges -->
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-adamsportofolio.netlify.app-4F8EF7?style=for-the-badge)](https://adamsportofolio.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-adam--suvi7-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adam-suvi7)
-[![Email](https://img.shields.io/badge/Gmail-adamsuvi7@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adamsuvi7@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-@adam__suvi-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/adam_suvi)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-adamsportofolio.netlify.app-2B3754?style=for-the-badge)](https://adamsportofolio.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-adam--suvi7-D28C5D?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adam-suvi7)
+[![Email](https://img.shields.io/badge/Gmail-adamsuvi7@gmail.com-6D2D43?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adamsuvi7@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-@adam__suvi-2B3754?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/adam_suvi)
 
 </div>
 
@@ -134,7 +134,7 @@
 <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=adamsuvi7&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 
 <!-- Activity Graph -->
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=adamsuvi7&theme=tokyo-night&hide_border=true&area=true&area_color=4F8EF7" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=adamsuvi7&theme=tokyo-night&hide_border=true&area=true&area_color=D28C5D" />
 
 <!-- GitHub Trophies -->
 <img width="95%" src="https://github-profile-trophy.vercel.app/?username=adamsuvi7&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
@@ -161,7 +161,7 @@
 <div align="center">
 
 ### 👀 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=adamsuvi7&color=4F8EF7&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=adamsuvi7&color=6D2D43&style=for-the-badge&label=PROFILE+VIEWS)
 
 ⭐ **If you find my work useful, please star the repos!**
 
@@ -170,4 +170,4 @@
 </div>
 
 <!-- Animated Wave Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,2,24&height=120&section=footer" />
+<img width="100%" src="./footer-animation.svg" alt="Footer Animation" />
